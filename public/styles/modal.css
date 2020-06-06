@@ -87,3 +87,17 @@
 #modal form button:hover {
     background-color: #2fb85e;
 }
+
+/* MODAL CREATED */
+
+#modal.point .content {
+    display: flex;
+    flex-direction: flex;
+    align-items: center;
+}
+
+#modal.point h1 {
+    color: white;
+
+    margin-top: 32px;
+}
